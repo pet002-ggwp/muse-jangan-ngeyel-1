@@ -1,0 +1,21 @@
+BUKTI — METADATA KLIP TES
+=========================
+
+File: video-tes-adonan-10-detik.mp4
+Dibuat: 17 Oktober 2026, 23:45 EDT (18 Okt 03:45 UTC)
+Cara dibuat: SATU panggilan video generation bawaan Muse (text-to-video),
+             di akun yang sama yang pada 9 Oktober 2026 membalas
+             403 video_not_available.
+Prompt tes: klip pendek tangan menguleni adonan (10 detik).
+Hasil probe (ffprobe): H.264, 720x1280, audio AAC, durasi tepat 10,000 detik,
+             ukuran file 6.506.981 byte.
+
+File: video-contoh-wanita-naik-motor.mp4
+Dibuat: 17 Oktober 2026, 23:50 EDT — lima menit SETELAH klip tes di atas.
+Isi: video AI 10 detik (wanita berhelm naik motor sport), dibuat atas
+             permintaan pengguna begitu blokir terbukti sudah tidak ada.
+Ukuran file: 8.491.338 byte.
+
+Konteks lengkap: baca README.md. Kedua file adalah hasil generate asli,
+bukan rekayasa — silakan periksa metadata dan frame-nya sendiri
+(frame-adonan.jpg adalah frame asli dari detik ke-3 klip tes).
